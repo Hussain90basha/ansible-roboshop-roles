@@ -5,3 +5,5 @@ CART_HOST: cart.eliyas.fun
 MYSQL_HOST: mysql.eliyas.fun
 USER_HOST: user.eliyas.fun
 RABBITMQ_HOST: rabbitmq.eliyas.fun
+SHIPPING_HOST: shipping.eliyas.fun
+PAYMENT_HOST: payment.eliyas.fun
