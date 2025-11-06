@@ -3,3 +3,5 @@ REDIS_HOST: redis.eliyas.fun
 CATALOGUE_HOST: catalogue.eliyas.fun
 CART_HOST: cart.eliyas.fun
 MYSQL_HOST: mysql.eliyas.fun
+USER_HOST: user.eliyas.fun
+RABBITMQ_HOST: rabbitmq.eliyas.fun
