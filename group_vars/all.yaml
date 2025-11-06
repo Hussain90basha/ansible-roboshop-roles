@@ -1,3 +1,5 @@
 MONGODB_HOST: mongodb.eliyas.fun
 REDIS_HOST: redis.eliyas.fun
 CATALOGUE_HOST: catalogue.eliyas.fun
+CART_HOST: cart.eliyas.fun
+MYSQL_HOST: mysql.eliyas.fun
